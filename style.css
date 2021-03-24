@@ -1,0 +1,48 @@
+.container{
+    width: auto;
+    height: 720px;
+    background-image: url(https://img2.goodfon.ru/wallpaper/nbig/a/ef/sony-walkman-zx1-audio-player.jpg);
+    text-align: center;
+position: relative;
+}
+.video{
+    position: relative;
+    width: 600px;
+    height: auto;
+    top: 30px;
+    border: solid 10px rgb(72, 68, 67);
+    
+}
+progress{
+    border-radius: 0%;
+    position: relative;
+    top: 26px;
+    width: 620px;
+    height: 35px;   
+    color: coral;
+}
+
+#out{
+    position: relative;
+    top: 40px;
+    border-radius: 5%;
+    font-size: 24px;
+    border: solid 4px rgb(41, 16, 16);
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    color:rgb(214, 167, 167);
+}
+.button-container{
+    position: relative;
+    top: -50px;
+    font-size: 17px;
+    color:rgb(214, 167, 167);
+}
+.button{
+    width: 7%;
+    background: none;
+    font-size: 17px;
+    color:rgb(214, 167, 167);
+}
+
